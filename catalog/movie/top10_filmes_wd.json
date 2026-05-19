@@ -1,0 +1,94 @@
+{
+    "metas": [
+        {
+            "id": "tt12042730",
+            "type": "movie",
+            "name": "Devoradores de Estrelas",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_1.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/ib5dce2eOeaVdDboxZ6C2ZPIwdO.png"
+        },
+        {
+            "id": "tt32612507",
+            "type": "movie",
+            "name": "Maldição da Múmia",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_2.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/4xJ0N6Hu9zy06kw3RD1lMuTZi6P.png"
+        },
+        {
+            "id": "tt36042156",
+            "type": "movie",
+            "name": "O Justiceiro: Uma Última Morte",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_3.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/cccXiN28CPjcMVhji5LnogF4Njp.jpg",
+            "logo": "https://image.tmdb.org/t/p/original/ddwt2LeOrFB59no6y9CcQSdj1DV.png"
+        },
+        {
+            "id": "tt17490712",
+            "type": "movie",
+            "name": "Mortal Kombat 2",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_4.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png"
+        },
+        {
+            "id": "tt40792117",
+            "type": "movie",
+            "name": "Colisão: Acidente ou Homicídio?",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_5.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/y0YLsWPSkUEfqpkYiUBY9s51XDD.png"
+        },
+        {
+            "id": "tt28650488",
+            "type": "movie",
+            "name": "Super Mario Galaxy: O Filme",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_6.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wDGKAxgMR56fzkgdY4424NV40IR.png"
+        },
+        {
+            "id": "tt16431404",
+            "type": "movie",
+            "name": "O Jogo do Predador",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_7.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/nVlBXCblucylhNK66kNQfpUZLtV.png"
+        },
+        {
+            "id": "tt33100314",
+            "type": "movie",
+            "name": "Criaturas Extraordinariamente Brilhantes",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_8.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/dmeLs38lcpKoRMSKWad3GrLjflA.png"
+        },
+        {
+            "id": "tt33071426",
+            "type": "movie",
+            "name": "O Drama",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_9.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/avo09ZW43ImWtWrwhm7NyUUzmoo.png"
+        },
+        {
+            "id": "tt33612209",
+            "type": "movie",
+            "name": "O Diabo Veste Prada 2",
+            "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/f_wd_10.jpg",
+            "posterShape": "poster",
+            "background": "https://image.tmdb.org/t/p/original/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+        }
+    ]
+}
