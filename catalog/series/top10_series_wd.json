@@ -5,7 +5,7 @@
             "type": "series",
             "name": "Origem",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_1.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/uyMBLkWUBgwysZf29Ty1DhwKIIP.png"
         },
@@ -14,7 +14,7 @@
             "type": "series",
             "name": "Euphoria",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_2.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/3o1S8814htDg63MtITB231d56zi.png"
         },
@@ -23,7 +23,7 @@
             "type": "series",
             "name": "The Boys",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_3.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
         },
@@ -32,7 +32,7 @@
             "type": "series",
             "name": "Marshals: Uma História de Yellowstone",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_4.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/nME4la4JnX5WBXXyMQFGQ05LD26.png"
         },
@@ -41,7 +41,7 @@
             "type": "series",
             "name": "O Rastreador",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_5.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/90ZA0cCOU0Wo3tXoGQZgCeqb8Ov.png"
         },
@@ -50,7 +50,7 @@
             "type": "series",
             "name": "Uma Família da Pesada",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_6.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/4gl00NPDu3y01X9w5AaMOa5cJ4M.png"
         },
@@ -59,7 +59,7 @@
             "type": "series",
             "name": "Seus Amigos e Vizinhos",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_7.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/yjOJJZMfmgaNoTL0cfIHF20ILRL.png"
         },
@@ -68,7 +68,7 @@
             "type": "series",
             "name": "Rancho Dutton",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_8.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/wQ7FFixqLXD2aOqtoiawyz7IbVx.png"
         },
@@ -77,7 +77,7 @@
             "type": "series",
             "name": "FBI",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_9.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/uGbXiqbgvxpz33n1jJn4AfctFgV.png"
         },
@@ -86,7 +86,7 @@
             "type": "series",
             "name": "For All Mankind",
             "poster": "https://danilopagotto82.github.io/Fer-Top10/capas/s_wd_10.jpg",
-            "posterShape": "poster",
+            "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/w9yzvEfe3Sy9W0PZgBRLAsktOol.png"
         }
